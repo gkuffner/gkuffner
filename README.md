@@ -1,5 +1,5 @@
 ## Hi there, I'm Guilherme! 👋
-I'm a __Mechanical Engineering__ student in search of expanding my knowledge into the _Data Science_ field. My goal is to apply practice by applying Data Science topics wherever I can!
+I'm a __Mechanical Engineering__ student in search of expanding my knowledge into the _Data Science_ field. My goal is to practice by applying Data Science topics wherever I can!
 
 
 ## Skill Set 📖
