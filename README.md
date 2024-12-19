@@ -1,8 +1,8 @@
-## Hi there, I'm Guilherme! 👋
+# Hi there, I'm Guilherme! 👋
 I'm a __Mechanical Engineering__ student seeking to expand my knowledge in the _Data Science_ field. My goal is to practice by applying Data Science topics wherever I can!
 
 
-## Skill Set 📖
+# Skill Set 📖
 ### Programming Languages
 You can click the language and check my projects in each one if possible!
 <div style="display: inline_block">
@@ -12,12 +12,12 @@ You can click the language and check my projects in each one if possible!
   <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
-## Projects 🛠️
+# Projects 🛠️
 ### Data Analysis & Data Science 📈
 
 ### Java, Kotlin & Mobile Development 📱
 
-## My Github Stats 📊
+# My Github Stats 📊
 
 <div>
   <a href = "https://github.com/gkuffner"/>
@@ -25,16 +25,15 @@ You can click the language and check my projects in each one if possible!
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkuffner&theme=holi"/>
 </div>
 
-## Let's connect! 🤝 
+# Let's connect! 🤝 
 <div>
   <a href="mailto:guilhermekmpr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-kuffner-425b1616a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 <!--
 **gkuffner/gkuffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
