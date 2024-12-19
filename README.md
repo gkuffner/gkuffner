@@ -3,7 +3,7 @@ I'm a __Mechanical Engineering__ student seeking to expand my knowledge in the _
 
 
 # Skill Set 📖
-### Programming Languages
+### - Programming Languages
 You can click the language and check my projects in each one if possible!
 <div style="display: inline_block">
   <a href = "https://github.com/gkuffner?tab=repositories&q=&type=&language=python&sort="><img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -13,9 +13,9 @@ You can click the language and check my projects in each one if possible!
 </div>
 
 # Projects 🛠️
-### Data Analysis & Data Science 📈
+### - Data Analysis & Data Science 📈
 
-### Java, Kotlin & Mobile Development 📱
+### - Java, Kotlin & Mobile Development 📱
 
 # My Github Stats 📊
 
