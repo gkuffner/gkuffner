@@ -18,11 +18,12 @@ Here I showcase my projects related to data analysis and data science, focused m
 #### <a href="https://github.com/gkuffner/ds-project-scraping-tickers">Financial Data Web Scraping:</a>
 This project I found on a freelancing website and decided to voluntarily do it as a practice. It uses Selenium to scrape some specific data of Brazilian financial market products such as debentures, CRI (Real Estate Receivables Certificate), and CRA (Agribusiness Receivables Certificate), trying two different websites if the first doesn't work.
 
-#### <a href="https://github.com/gkuffner/ds-project-scraping-tickers">Open Job Positions Web Scraping:</a>
+#### <a href="https://github.com/gkuffner/ds-project-scraping-tickers">Seasonal Job Positions Web Scraping:</a>
 This project consists of a web scraper tool with Selenium to get data from <a href="https://seasonaljobs.dol.gov/">USA seasonal job offers</a>. Data include details such as posting date, payment, location, job title, etc.
 
+<!--
 ### - Java, Kotlin & Mobile Development 📱
-
+-->
 # My Github Stats 📊
 
 <div>
