@@ -1,15 +1,21 @@
 ## Hi there, I'm Guilherme! 👋
-I'm a __Mechanical Engineering__ student in search of expanding my knowledge into the _Data Science_ field. My goal is to practice by applying Data Science topics wherever I can!
+I'm a __Mechanical Engineering__ student seeking to expand my knowledge in the _Data Science_ field. My goal is to practice by applying Data Science topics wherever I can!
 
 
 ## Skill Set 📖
 ### Programming Languages
+You can click the language and check my projects in each one if possible!
 <div style="display: inline_block">
-  <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href = "https://github.com/gkuffner?tab=repositories&q=&type=&language=python&sort="><img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <a href = "https://github.com/gkuffner?tab=repositories&q=&type=&language=java&sort="><img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="" height="20" width="60" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
+
+## Projects 🛠️
+### Data Analysis & Data Science 📈
+
+### Java, Kotlin & Mobile Development 📱
 
 ## My Github Stats 📊
 
