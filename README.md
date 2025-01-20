@@ -14,12 +14,18 @@ You can click the language and check my projects in each one if possible!
 
 # Projects 🛠️
 ### - Data Analysis & Data Science 📈
-Here I showcase my projects related to data analysis and data science, focused mainly on Python.
+Here I showcase my data analysis and data science projects, focused mainly on Python.
 #### <a href="https://github.com/gkuffner/ds-project-scraping-tickers">Financial Data Web Scraping:</a>
-This project I found on a freelancing website and decided to voluntarily do it as a practice. It uses Selenium to scrape some specific data of Brazilian financial market products such as debentures, CRI (Real Estate Receivables Certificate), and CRA (Agribusiness Receivables Certificate), trying two different websites if the first doesn't work.
+I found this project on a freelancing website and decided to do it voluntarily as a practice. It uses Selenium to scrape some specific data on Brazilian financial market products such as debentures, CRI (Real Estate Receivables Certificate), and CRA (Agribusiness Receivables Certificate), trying two different websites if the first doesn't work.
 
 #### <a href="https://github.com/gkuffner/ds-project-scraping-tickers">Seasonal Job Positions Web Scraping:</a>
 This project consists of a web scraper tool with Selenium to get data from <a href="https://seasonaljobs.dol.gov/">USA seasonal job offers</a>. Data include details such as posting date, payment, location, job title, etc.
+
+<!--
+#### Analysis of Norway's Investment Fund
+
+#### Energy Consumption and Renewable Energy Usage Analysis
+-->
 
 <!--
 ### - Java, Kotlin & Mobile Development 📱
@@ -50,3 +56,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
